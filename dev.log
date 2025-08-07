@@ -75,3 +75,4 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  GET / 200 in 102ms
  GET / 200 in 22ms
  GET / 200 in 200ms
+   Reload env: .env.local
