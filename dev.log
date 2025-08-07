@@ -1,0 +1,77 @@
+
+> sound-healing-app@0.1.0 dev
+> next dev --turbopack
+
+ ⚠ Warning: Found multiple lockfiles. Selecting /Users/zhuanghaiying/package-lock.json.
+   Consider removing the lockfiles at:
+   * /Users/zhuanghaiying/Desktop/sound-healing-website/sound-healing-app/package-lock.json
+
+   ▲ Next.js 15.4.5 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://10.191.1.96:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Compiled middleware in 95ms
+ ✓ Ready in 777ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.7s
+ HEAD / 200 in 2948ms
+ GET / 200 in 66ms
+ ⚠ Cross origin request detected from 10.191.1.96 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /favicon.ico in 103ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 372ms
+ GET / 200 in 50ms
+ GET / 200 in 67ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 227ms
+ ✓ Compiled /login in 174ms
+ GET /login/ 200 in 195ms
+ GET / 200 in 69ms
+ GET / 200 in 38ms
+ GET / 200 in 35ms
+ GET / 200 in 86ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 235ms
+ GET /login/ 200 in 37ms
+ ✓ Compiled /admin in 406ms
+ GET /admin/ 200 in 922ms
+ GET /admin/ 200 in 702ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 230ms
+ GET / 200 in 43ms
+ GET / 200 in 39ms
+ GET / 200 in 33ms
+ GET / 200 in 38ms
+ GET / 200 in 39ms
+ GET /admin/ 200 in 343ms
+ GET / 200 in 29ms
+ GET / 200 in 44ms
+ GET / 200 in 41ms
+ GET / 200 in 25ms
+ GET / 200 in 37ms
+ GET / 200 in 39ms
+ GET / 200 in 38ms
+ GET / 200 in 42ms
+ ✓ Compiled in 53ms
+ ✓ Compiled / in 16ms
+ GET / 200 in 113ms
+ GET / 200 in 33ms
+ ✓ Compiled in 30ms
+ GET /admin/ 200 in 2428ms
+ GET / 200 in 121ms
+ GET /admin/ 200 in 394ms
+ GET / 200 in 46ms
+ ✓ Compiled in 78ms
+ ✓ Compiled in 26ms
+ ✓ Compiled / in 15ms
+ GET / 200 in 108ms
+ GET / 200 in 29ms
+ ✓ Compiled / in 12ms
+ GET / 200 in 89ms
+ GET / 200 in 21ms
+ GET / 200 in 196ms
+ GET / 200 in 76ms
+ ✓ Compiled in 29ms
+ ✓ Compiled / in 14ms
+ GET / 200 in 102ms
+ GET / 200 in 22ms
+ GET / 200 in 200ms
