@@ -30,6 +30,10 @@ export function AudioLibrary() {
 
       if (error) {
         console.error('Error fetching audio files:', error)
+        // 如果是权限错误，显示友好提示而不是崩溃
+        if (error.code === 'PGRST116' || error.message.includes('RLS')) {
+          console.log('RLS策略未配置，显示空状态')
+        }
         return
       }
 
