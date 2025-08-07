@@ -27,7 +27,8 @@ export default function LoginPage() {
     })
 
     if (error) {
-      setError('登录失败，请检查邮箱和密码')
+      console.error('登录错误:', error)
+      setError(`登录失败: ${error.message}`)
     } else {
       router.push('/admin')
     }
